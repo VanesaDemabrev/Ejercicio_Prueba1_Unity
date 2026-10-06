@@ -1,0 +1,25 @@
+comando para para hacer zum en el proyect ctrl +la rueda del ratos
+seleccionar en jerarquia y me lo quiero ver en mitad de escena se centra y acerca con la tecla F , funciona en todas menos tener el puntero del raton  en proyect.
+la camara muestra como tendriamos la vista del jugador
+
+en la pestaña game vemos lo que veria el jugador cuando este jugando a nuestro juego.
+
+cuando le damos a play cambia edl color de la interfaz.cualuier ajuste ue hagamos si entamos con el play pulsado y lo quitamos  (de ejecutar la escena) ,no se guarda los cambios.
+
+paneles por si se pierden se encuentran en pestaña windos y sino layout se encuentra en default. 
+hay varios tutoriales 
+manuales sobre unity en unity.com esta en ingles ,no cambiar el nombre,ni idioma.
+
+
+x y z de unity e x y z de blender son diferente y es pregunta de examen.
+
+diferencia de scene local (ejes del objeto)y global(ejes de la escena).(casi siempre tener en global)
+
+comandos para moverse dentro la escena , clic derecho orbitamos dr¡entro de la escena, 2d tachado, nos indica ue estamos en universo 3d pero si se desactiva nos aparece el universo 2d,
+
+inspector de un objeto, me dice ue tengo una malla en forma del objeto,mesh renderer , si uiero ver la malla dibujada tengo ue tenerlo activada, box collider colision del cubo/objeto,los componentes estan predeterminados,
+
+si objeto vacio puedo añadir los mismos componente , add component, el mesh filter,mesh renderer y box collider.
+
+
+
